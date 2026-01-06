@@ -94,9 +94,11 @@ If you are located in the European Economic Area (EEA), we process your data bas
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email**: [Your Contact Email]  
-**Website**: [Your Website]  
+**Email**: support@example.com  
+**Website**: https://example.com  
 **Address**: [Your Mailing Address]
+
+> **Note**: Please update the contact information above with actual contact details before publishing this privacy policy.
 
 ## Consent
 
